@@ -88,19 +88,19 @@
                scale="1" invert="0" min="0" max="100" curve="0" attack="0" decay="0"
                resolution="0" midicc2="-1" latch="0"/>
       <gesture openness="32" dexterity="1" type="512" enabled="1" midichannel="1"
-               midicc="101" offset="0" rest="101" mute="0" solo="0" linked="1"
+               midicc="101" offset="0" rest="101" mute="1" solo="0" linked="1"
                scale="1" invert="0" min="0" max="100" curve="100" attack="0"
                decay="0" resolution="0" midicc2="-1" latch="0"/>
       <gesture openness="32" dexterity="2" type="512" enabled="1" midichannel="1"
-               midicc="111" offset="0" rest="101" mute="0" solo="0" linked="1"
+               midicc="111" offset="0" rest="101" mute="1" solo="0" linked="1"
                scale="1" invert="0" min="0" max="100" curve="0" attack="0" decay="0"
                resolution="0" midicc2="-1" latch="0"/>
       <gesture openness="16" dexterity="1" type="768" enabled="1" midichannel="1"
-               midicc="102" offset="0" rest="101" mute="0" solo="0" linked="1"
+               midicc="102" offset="0" rest="101" mute="1" solo="0" linked="1"
                scale="1" invert="0" min="0" max="100" curve="0" attack="0" decay="0"
                resolution="0" midicc2="-1" latch="0"/>
       <gesture openness="16" dexterity="2" type="768" enabled="1" midichannel="1"
-               midicc="112" offset="0" rest="101" mute="0" solo="0" linked="1"
+               midicc="112" offset="0" rest="101" mute="1" solo="0" linked="1"
                scale="1" invert="0" min="0" max="100" curve="100" attack="0"
                decay="0" resolution="0" midicc2="-1" latch="0"/>
       <gesture openness="32" dexterity="1" type="768" enabled="1" midichannel="1"
